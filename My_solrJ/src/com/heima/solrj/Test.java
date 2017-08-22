@@ -5,5 +5,6 @@ public class Test {
         System.out.println("b 1sh");
         System.out.println("b 2sh");
         System.out.println("a 1sh");
+        System.out.println("b bugfix");
     }
 }
